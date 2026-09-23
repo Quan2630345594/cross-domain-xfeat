@@ -1,3 +1,6 @@
 [submodule "third_party/ALIKE"]
 	path = third_party/ALIKE
 	url = https://github.com/Shiaoming/ALIKE
+[submodule "third_party/third_party/ALIKE"]
+	path = third_party/third_party/ALIKE
+	url = https://github.com/Shiaoming/ALIKE.git
